@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abdisamad! 👋
 
-![Banner Image](![Uploading image.png…]()
+![Banner Image] https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodex%2Fhow-to-be-a-front-end-developer-in-2023-ca0f673d5996&psig=AOvVaw1QuzRdDPp1svZTnHHuR2LG&ust=1756811159010000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDHvea1t48DFQAAAAAdAAAAABAE
 )
 
 ## About Me 🚀
