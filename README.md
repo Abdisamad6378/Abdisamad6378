@@ -1,8 +1,9 @@
-## Hi there 👋
+
 
 # Hi there, I'm Abdisamad! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](![Uploading image.png…]()
+)
 
 ## About Me 🚀
 
