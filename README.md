@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abdisamad! 👋
 
-![Banner Image] ![1_jXusXvCfxECPU_Jh9S_E3w](https://github.com/user-attachments/assets/695393ca-cb66-4f5d-9023-c23daf51c3c5)
+ ![1_jXusXvCfxECPU_Jh9S_E3w](https://github.com/user-attachments/assets/695393ca-cb66-4f5d-9023-c23daf51c3c5)
 
 
 ## About Me 🚀
