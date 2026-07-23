@@ -1,4 +1,4 @@
-👨‍💻  <h1>Abdisamad Maalim Hussein</h1> 
+<h1>Abdisamad Maalim Hussein</h1> 
 - Full Stack Developer
 🚀 About Me
 I'm a Full Stack JavaScript Developer specializing in the PERN (PostgreSQL, Express, React, Node.js) stack. As a recent graduate, I'm passionate about building modern web applications and excited to start my professional journey in software development.
