@@ -1,78 +1,216 @@
-<h1 align="center">Hello 👋, I'm Abdisamad </h1>
-<h3 align="center">A passionate Frontend Developer from Nairobi/Kenya</h3>
+👨‍💻 ABDISAMAD MAALIM HUSSEIN - Full Stack Developer
+🚀 About Me
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ALX+ProDev+Frontend+learner;Team+Player+;Problem+Solver;Clean+Code+Enthusiast;Better+Every+Day+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</p>
+I'm a Full Stack JavaScript Developer specializing in the PERN (PostgreSQL, Express, React, Node.js) stack. As a recent graduate, I'm passionate about building modern web applications and excited to start my professional journey in software development.
+💡 What Drives Me
 
-- 🌱 I’m currently learning **Advanced HTML, CSS, Javascript, React, TypeScript, and Node.js**
+    Building clean, functional web applications
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS**
+    Writing readable and maintainable code
 
-- 📫 How to reach me **abdisamadhussein77@gmail.com**
+    Learning new technologies and best practices
 
-- ⚡ Fun fact: **I'm a huge fan of Football and board games!**
+    Contributing to team projects and collaborating with others
 
-<br>
+    Turning ideas into working products
 
-<h2 align="left">🚀 My Journey</h2>
+🛠️ Technical Skills
+Frontend
 
-<p align="left">
-  I fell in love with software engineering because I love <strong>learning new technologies</strong> and <strong>solving complex projects as a team player</strong>. The process of building something from scratch, collaborating with others, and turning ideas into reality is what drives me.
-</p>
-<p align="left">
-  My aim is to <strong>be better every day as a software engineer</strong>. I am passionate about writing clean, efficient, and accessible code to create seamless user experiences. I'm eager to contribute to a forward-thinking team where I can continue to learn, grow, and build amazing things together.
-</p>
+    https://img.shields.io/badge/React-20232A
+    style=for-the-badge&logo=react&logoColor=61DAFB
+    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+    https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+    https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+    https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+    https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 
-<br>
+Backend
 
-<h2 align="left">🛠️ Tech Stack</h2>
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <!-- Add more as needed, e.g., TypeScript, Python -->
-</p>
 
-<h3 align="left">Frameworks & Libraries:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
+Tools & Technologies
 
-<h3 align="left">Tools & Platforms:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-</p>
+    https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+    https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+    https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+    https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+    https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white
+🎓 Education & Training
+Full Stack Development Program
 
-<br>
+    Comprehensive training in PERN stack development
 
-<h2 align="left">📈 GitHub Stats & Streak</h2>
+    Project-based learning with real-world applications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdisamad6378&show_icons=true&theme=radical" alt="Abdisamad6378's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdisamad6378&layout=compact&theme=radical" alt="Top Languages" height="165">
-</p>
+    Agile development methodologies
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdisamad6378&theme=radical" alt="GitHub Streak" height="165">
-</p>
+    Version control with Git/GitHub
 
-<br>
+Certifications
 
-<h2 align="left">🤝 Let's Connect!</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/Forwarded from Abdisamad Hussein (https://www.linkedin.com/in/ACoAAF4_mlIBUAuEaU3G5BY0q56ADdacV8iZJaE):
-https://www.linkedin.com/in/abdisamad-hussein-816671381/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
-  <a href="mailto:your.abdisamadhussein77@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/></a>
-</p>
+    Mactapa Fullsatack and Ai Engineering
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdisamad6378&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+    Frontend Development Certification (freeCodeCamp)
+
+    JavaScript Algorithms and Data Structures
+
+📂 Featured Projects
+1. Task Management System
+
+A full-featured task management application with user authentication and CRUD operations.
+
+Tech Stack: React, Redux Toolkit, Node.js, Express, PostgreSQL, JWT, Tailwind CSS
+
+Features:
+
+    User registration and login with JWT authentication
+
+    Create, read, update, and delete tasks
+
+    Task filtering by status and priority
+
+    Drag-and-drop task organization
+
+    Responsive design for desktop and mobile
+
+    Protected routes and secure API endpoints
+
+2. E-Commerce Platform
+
+A complete e-commerce solution with product catalog and shopping cart functionality.
+
+Tech Stack: React, Context API, Node.js, Express, PostgreSQL, Stripe Integration
+
+Features:
+
+    Product catalog with search and filter capabilities
+
+    Shopping cart with quantity management
+
+    User authentication and profile management
+
+    Order processing and history
+
+    Admin panel for product management
+
+    Secure payment processing
+
+3. Social Media Analytics Dashboard
+
+A real-time analytics dashboard for monitoring social media metrics.
+
+Tech Stack: React, Chart.js, Node.js, Express, PostgreSQL, WebSockets
+
+Features:
+
+    Real-time data visualization with interactive charts
+
+    Customizable dashboard layouts
+
+    Export reports in multiple formats
+
+    User authentication and role-based access
+
+    Data caching for performance optimization
+
+    Responsive and accessible design
+
+🏆 Key Achievements
+
+    Completed 5+ full-stack projects from conception to deployment
+
+    Earned 3 professional certifications in web development
+
+    Contributed to open-source projects on GitHub
+
+    Participated in hackathons and coding competitions
+
+    Maintained 90%+ code coverage in personal projects
+
+    Built portfolio of 10+ web applications
+
+📝 Current Focus
+
+    🔭 Building my professional portfolio website
+
+    🌱 Learning TypeScript for type-safe development
+
+    📖 Reading "Clean Code" by Robert C. Martin
+
+    🎯 Preparing for technical interviews
+
+    💻 Exploring Next.js for server-side rendering
+
+🎯 Career Objectives
+
+Immediate Goals:
+
+    Secure my first full-time full stack developer role
+
+    Join a team where I can contribute and grow
+
+    Apply my skills to real-world business problems
+
+    Learn from experienced developers and mentors
+
+Long-term Vision:
+
+    Become a senior full stack developer
+
+    Master cloud technologies (AWS, Azure)
+
+    Contribute to large-scale applications
+
+    Mentor and help other junior developers
+
+💼 What I'm Looking For
+
+I'm actively seeking entry-level full stack developer positions where I can:
+
+    Apply my PERN stack knowledge
+
+    Learn and grow as a developer
+
+    Contribute to meaningful projects
+
+    Work in a collaborative team environment
+
+    Build products that make a difference
+
+Ideal Work Environment:
+
+    Supportive team culture
+
+    Opportunities for learning and growth
+
+    Modern tech stack
+
+    Clear career progression path
+
+    Remote or hybrid work options
+
+💬 Let's Connect!
+
+I'm open to conversations about:
+
+    💼 Full stack development opportunities
+
+    🤝 Networking and mentorship
+
+    💬 Technical discussions and code reviews
+
+    🚀 Project collaborations
+
+    📚 Learning resources and career advice
+
+📧 Email: abdisamadhussein@gmail.com
+🔗 LinkedIn: linkedin.com/in/
+🐙 GitHub: github.com/Abdisamad6378
